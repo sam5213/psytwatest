@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#book-consultation {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#book-consultation:hover {
+    background-color: #0056b3;
+}
+
+#video-call {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
